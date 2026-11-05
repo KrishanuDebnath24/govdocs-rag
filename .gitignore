@@ -1,0 +1,15 @@
+.venv/
+__pycache__/
+*.pyc
+zips/
+*.zip
+pilot_out*/
+reranker_onnx/
+*.sqlite
+*.npy
+*.csv
+*.log
+overnight_status.txt
+.env
+/[0-9][0-9][0-9]/
+pilot_test/
